@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raque-lita
 - 👀 I’m interested in cycling, mutual aid orgs, removing Greg Abbott from office, deepening my knowledge of programming!
 - 🌱 I’m currently learning python, javascript, react, sql, etc
-- 💞️ I’m looking to collaborate on open source projects (am a beginner), and helping the beginner!
+- 💞️ I’m looking to collaborate on open source projects and helping the beginner!
 - 📫 How to reach me ... https://twitter.com/lita_raqi
 
 <!---
